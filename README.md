@@ -1,4 +1,5 @@
-# pythonapp - Sample app for package installation and testing
+# pythonapp
+Sample app for package installation and testing
 
 ## Package Creation
 
